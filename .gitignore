@@ -162,7 +162,7 @@ cython_debug/
 .idea/
 
 
-# Por ahora (Poryecto)
+# Por ahora (Proyecto)
 Proyecto/
 Lab12/mlruns/
 Lab12/models/
